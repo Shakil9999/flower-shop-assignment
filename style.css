@@ -103,3 +103,24 @@ main {
     text-align: center;
     margin-top: 15px;
 }
+
+
+/* delevery section style */
+
+.delevery{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    background-color: #2727270D;
+    padding: 25px;
+}
+
+.delevery-item{
+    text-align: center;
+}
+.delevery-title{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-weight: 600;
+    margin-top: 15px;
+}
